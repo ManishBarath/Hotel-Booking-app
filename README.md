@@ -41,7 +41,7 @@ You can access the live application here: [Bookeando](https://bookeando.onrender
 ## Local Use
 
 ```bash
-git clone https://github.com/ssanjua/booking-web
+git clone https://github.com/ManishBarath/Hotel-Booking-app.git
 cd booking-web
 npm install
 npm run dev
